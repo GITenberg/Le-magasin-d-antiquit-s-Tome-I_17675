@@ -1,0 +1,46 @@
+_repo: Le-magasin-d-antiquit-s-Tome-I_17675
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Des Essarts, Alfred
+    alias: Essarts, Alfred des
+    birthdate: 1811
+    deathdate: 1893
+    gutenberg_agent_id: '7534'
+    url: http://www.gutenberg.org/2009/agents/7534
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17675'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcc 'PR'
+- !lcsh 'Antique dealers -- Fiction'
+- !lcsh 'Grandfathers -- Fiction'
+- !lcsh 'Gamblers -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Grandparent and child -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Girls -- Fiction'
+title: Le magasin d'antiquités, Tome I
+url: http://www.gutenberg.org/ebooks/17675
